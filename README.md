@@ -1,6 +1,6 @@
 # ffw-projects-manager-backend-typeorm
 
-> Private project. Projects managment BACKEND project
+> [Private project. Projects managment BACKEND project]
 
 See [Ts.ED](https://tsed.io) project for more information.
 
