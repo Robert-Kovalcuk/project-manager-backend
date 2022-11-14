@@ -1,0 +1,14 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint"],
+  "extends": [
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "semi": ["error", "never"],
+    "arrow-spacing": "error",
+    "sort-imports": "warn",
+    "quotes": ["error", "double"],
+    "max-params": ["warn", 3]
+  }
+}
