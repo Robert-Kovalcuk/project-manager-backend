@@ -1,6 +1,6 @@
 # ffw-projects-manager-backend-typeorm
 
-> An awesome project based on Ts.ED framework
+> Private project. Projects managment BACKEND project
 
 See [Ts.ED](https://tsed.io) project for more information.
 
